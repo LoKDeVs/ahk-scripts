@@ -1,0 +1,1 @@
+﻿F3::Send, % "{C " . ((Toggle := !Toggle) ? "down}" : "up}")
